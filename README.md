@@ -1,17 +1,14 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sirajul+Alam+(Shourov);sudo+access%3A+granted;compiling+willpower.exe...;print(%22still+debugging%22)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Sirajul+Alam+(Shourov);sudo+access%3A+granted;compiling+willpower.exe...;print(%22still+debugging%22)" alt="Typing SVG" />
 </h1>
-
-
 <p align="center">
-  <img src="https://img.shields.io/badge/⚡_STATUS-ONLINE-00FFFF?style=flat&labelColor=161b22" alt="Status" />
+  <img src="https://img.shields.io/badge/⚡_STATUS-ONLINE-00FFFF?style=flat-square&labelColor=161b22" alt="Status" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/☕_COFFEE-CRITICAL-ff4a5a?style=flat&labelColor=161b22" alt="Coffee" />
+  <img src="https://img.shields.io/badge/☕_COFFEE-CRITICAL-ff4a5a?style=flat-square&labelColor=161b22" alt="Coffee" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/🌐_B_TABS-47_OPEN-00FFFF?style=flat&labelColor=161b22" alt="Tabs" />
+  <img src="https://img.shields.io/badge/🌐_B_TABS-47_OPEN-00FFFF?style=flat-square&labelColor=161b22" alt="Tabs" />
 </p>
-
----
+<hr />
 
 ## 💫 About Me
 A Computer Science student trying to survive on caffeine ☕, Stack Overflow 🆘, and pure willpower 💪.
