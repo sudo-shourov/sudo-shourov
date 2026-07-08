@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sirajul+Alam+(Shourov);sudo+access%3A+granted;compiling+willpower.exe...;print(%22still+debugging%22)" alt="Typing SVG" />
 </h1>
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/⚡_STATUS-ONLINE-00FFFF?style=flat&labelColor=161b22" alt="Status" />
   &nbsp;&nbsp;
@@ -24,11 +25,20 @@ A Computer Science student trying to survive on caffeine ☕, Stack Overflow �
 ---
 
 ## 🌐 Connect with Me
+
 <p align="left">
-  <a href="https://facebook.com/sudo.sirajul.alam.shourov" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://instagram.com/sirajul.alam.shourov" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://youtube.com/@SirajulAlamShourov" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/></a>
-  <a href="mailto:sirajul.alam.shourov@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://facebook.com/sudo.sirajul.alam.shourov" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-161b22?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/sirajul.alam.shourov" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+  </a>
+  <a href="https://youtube.com/@SirajulAlamShourov" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-161b22?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube"/>
+  </a>
+  <a href="mailto:sirajul.alam.shourov@gmail.com">
+    <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+  </a>
 </p>
 
 ---
