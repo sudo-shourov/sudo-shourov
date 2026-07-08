@@ -9,6 +9,9 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/🌐_B_TABS-47_OPEN-00FFFF?style=flat&labelColor=161b22" alt="Tabs" />
 </p>
+
+---
+
 ## 💫 About Me
 A Computer Science student trying to survive on caffeine ☕, Stack Overflow 🆘, and pure willpower 💪.
 
