@@ -1,12 +1,11 @@
-# Hi there, I'm Sirajul Alam (Shourov) 👋
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sirajul+Alam+(Shourov);sudo+access%3A+granted;compiling+willpower.exe...;print(%22still+debugging%22)" alt="Typing SVG" />
+</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/l36kU80xPf0ojG0Erg/giphy.gif" width="250" alt="Spiderman Pointing Meme"/>
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="180" alt="Keyboard Cat"/>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/COFFEE_LEVEL-CRITICAL-red?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/BROWSER_TABS-47_OPEN-00FF41?style=for-the-badge&labelColor=0d1117" />
 </p>
-
----
-
 
 ## 💫 About Me
 A Computer Science student trying to survive on caffeine ☕, Stack Overflow 🆘, and pure willpower 💪.
