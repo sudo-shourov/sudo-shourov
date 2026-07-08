@@ -1,16 +1,13 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sirajul+Alam+(Shourov);sudo+access%3A+granted;compiling+willpower.exe...;print(%22still+debugging%22)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sirajul+Alam+(Shourov);sudo+access%3A+granted;compiling+willpower.exe...;print(%22still+debugging%22)" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <!-- Status Badge -->
-  <img src="https://img.shields.io/badge/status-online-00E5FF?style=flat-square&logo=windowsterminal&logoColor=00E5FF&labelColor=1a1f29&color=1a1f29" alt="Status" />
+  <img src="https://img.shields.io/badge/⚡_STATUS-ONLINE-00FFFF?style=flat&labelColor=161b22" alt="Status" />
   &nbsp;&nbsp;
-  <!-- Coffee Badge -->
-  <img src="https://img.shields.io/badge/coffee_level-critical-ff3366?style=flat-square&logo=coffeescript&logoColor=ff3366&labelColor=1a1f29&color=1a1f29" alt="Coffee Level" />
+  <img src="https://img.shields.io/badge/☕_COFFEE-CRITICAL-ff4a5a?style=flat&labelColor=161b22" alt="Coffee" />
   &nbsp;&nbsp;
-  <!-- Browser Tabs Badge -->
-  <img src="https://img.shields.io/badge/browser_tabs-47_open-00E5FF?style=flat-square&logo=visualstudiocode&logoColor=00E5FF&labelColor=1a1f29&color=1a1f29" alt="Browser Tabs" />
+  <img src="https://img.shields.io/badge/🌐_B_TABS-47_OPEN-00FFFF?style=flat&labelColor=161b22" alt="Tabs" />
 </p>
 ## 💫 About Me
 A Computer Science student trying to survive on caffeine ☕, Stack Overflow 🆘, and pure willpower 💪.
