@@ -42,25 +42,26 @@ A Computer Science student trying to survive on caffeine ☕, Stack Overflow �
 
 ## 💻 Tech Stack
 
-### 🚀 Languages & Core Web
+### 🚀 Languages
 <p align="left">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
 </p>
 
-### 🛠️ Frameworks, Backend & Cloud
+### 🌐 Frontend & Web3
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js"/>
+</p>
+### 🛠️ Backend, Cloud & Databases
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js"/>
-  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase"/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
 </p>
-
 ### 🎨 Design & Creative
 <p align="left">
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop"/>
@@ -73,10 +74,13 @@ A Computer Science student trying to survive on caffeine ☕, Stack Overflow �
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=sudo-shourov&theme=aura&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=sudo-shourov&theme=aura&hide_border=false" alt="GitHub Streak" /><br/><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sudo-shourov&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=sudo-shourov&theme=aura&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sudo-shourov&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sudo-shourov&theme=aura&hide_border=false" width="97%" alt="GitHub Streak" />
+</p
 
 ---
 
