@@ -1,5 +1,10 @@
 # Hi there, I'm Sirajul Alam (Shourov) 👋
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l36kU80xPf0ojG0Erg/giphy.gif" width="250" alt="Spiderman Pointing Meme"/>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="180" alt="Keyboard Cat"/>
+</p>
+
 ---
 
 
